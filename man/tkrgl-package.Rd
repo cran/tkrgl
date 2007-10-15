@@ -24,12 +24,14 @@ History:
 0.3   \tab Added possibility to control multiple windows \cr
 0.4   \tab Compatibility with 2.0.0 tcltk package \cr
 0.5   \tab Added continuous rotation \cr
+0.6   \tab Added par3dsave \cr
 }
 
 Index:
 \tabular{ll}{
 \code{\link{spin3d}} \tab   Create TCL/TK controller for rgl window(s) \cr
-\code{\link{spinControl}} \tab Create a spin control in a TCL/TK window
+\code{\link{spinControl}} \tab Create a spin control in a TCL/TK window \cr
+\code{\link{par3dsave}} \tab Save viewpoints for playback
 }
 }
 \author{

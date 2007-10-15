@@ -1,7 +1,6 @@
 
 spinControl <- function(base, dev = rgl.cur()){
 
-	direct <- tclVar(1)
 	slider <- tclVar(100)
 	getZooms <- function() {
 	 	old <- rgl.cur()
